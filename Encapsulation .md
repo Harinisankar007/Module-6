@@ -39,3 +39,5 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ![image](https://github.com/user-attachments/assets/ca509f03-c03b-43d2-a5ee-289099e0669d)
 
 ## Result
+Thus, the program has been successfully executed.
+
