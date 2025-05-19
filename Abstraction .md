@@ -69,3 +69,5 @@ print("Area of a triangle:", t.area())
 ![image](https://github.com/user-attachments/assets/eb91a024-6005-4d0b-a679-552ec153a56f)
 
 ## Result
+Thus, the program has been successfully executed.
+
